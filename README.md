@@ -1,6 +1,6 @@
-Teste Técnico - [Nome da Empresa]
+Teste Técnico - Target Sistemas
 
-Este repositório contém a solução para o teste técnico proposto pela [Nome da Empresa]. O teste abrange lógica de programação e manipulação de dados utilizando JavaScript.
+Este repositório contém a solução para o teste técnico proposto pela Target Sistemas. O teste abrange lógica de programação e manipulação de dados utilizando JavaScript.
 
 📋 Descrição das Questões e Resoluções
 
